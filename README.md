@@ -1,4 +1,4 @@
-# Sensor-Failure-Prediction-Using-Time-
+# Sensor-Failure-Prediction-Using-Time-Series
 Step 1:
 EDA and Data Preprocessing and Creation Of Baseline Model
 
